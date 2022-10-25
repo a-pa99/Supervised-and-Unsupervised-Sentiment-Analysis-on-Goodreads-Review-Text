@@ -1,6 +1,5 @@
-# Milestone 2 Project Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text Final Report Asia Paige | Malarvizhi Veerappan | Srilekha Sikhinam
-
-### Motivation
+# Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text Final Report 
+# Asia Paige | Malarvizhi Veerappan | Srilekha Sikhinam
 
 Goodreads is an online catalog where users can search, review, and register books. This website also allows for quote and annotation searches. With so much text information offered on the website, our team was motivated  to perform a sentiment analysis on Goodread reviews. 
 
