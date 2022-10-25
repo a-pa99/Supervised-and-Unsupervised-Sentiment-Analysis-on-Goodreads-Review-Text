@@ -1,6 +1,4 @@
-# Milestone 2 Project
-# Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text Final Report
-# Asia Paige | Malarvizhi Veerappan | Srilekha Sikhinam
+# Milestone 2 Project Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text Final Report Asia Paige | Malarvizhi Veerappan | Srilekha Sikhinam
 
 ### Motivation
 
